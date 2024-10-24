@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sayantan Roy"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sayantan Roy"
 description              : &description "Economics Phd Student @Purdue University"
@@ -78,7 +78,7 @@ analytics:
 author:
   name             : "Sayantan Roy"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "4-th year Economics Phd student @Daniel School of Business "
   location         : "Location"
   github           : "SayantanHRoy"
 
@@ -140,9 +140,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+#  publications:
+#    output: true
+#    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/

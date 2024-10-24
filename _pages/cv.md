@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D Economics, Purdue University, 2026 (expected)
+* M.A.  in Economics, Madras School of Economics, 2019
+* B.Sc. in Economics, Ramakrishna Mission Residential College,Calcutta University, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2019-June 2021: Credit Risk Decision Scientist
+  * Credit and Fraud Risk, American Express, Gurugram
+  * Building and validating boosting models for credit risk
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Assistant
+  * Indian Institue of Technology 
+  * Duties included: Tagging issues
+  * Supervisor: Professor Arun G.
+
   
 Skills
 ======
