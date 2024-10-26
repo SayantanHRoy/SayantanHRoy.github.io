@@ -77,11 +77,28 @@ analytics:
 # Site Author
 author:
   name             : "Sayantan Roy"
-  avatar           : "profile.png"
-  bio              : "4-th year Economics Phd student @Daniel School of Business "
-  location         : "Location"
+  avatar           : "profile.jpg"
+  bio              : "4th-year Economics PhD Student @Daniels School of Business"
+  location         : "West Lafayette, IN"
+  email            : "roy175-at-purdue-dot-edu"
   github           : "SayantanHRoy"
-
+  linkedin         : "sayantan-roy"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:roy175@purdue.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/SayantanHRoy"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sayantan-roy"
+    - label: "PhD Program"
+      icon: "fas fa-fw fa-university"
+      url: "https://business.purdue.edu/phd/programs/economics/home.php"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "https://github.com/SayantanHRoy/CV/blob/main/CV_updated_SayantanRoy.pdf"
 # Reading Files
 include:
   - .htaccess
@@ -140,6 +157,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+    link: false
 #  publications:
 #    output: true
 #    permalink: /:collection/:path/
@@ -171,14 +189,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: teaching
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _publications
   - scope:
       path: ""
