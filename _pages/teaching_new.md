@@ -2,7 +2,7 @@
 title: "Teaching"
 layout: single
 permalink: /teaching_new/
-author_profile: true
+author_profile: false
 ---
 
 ## Econ 614: Macroeconomic Theory III

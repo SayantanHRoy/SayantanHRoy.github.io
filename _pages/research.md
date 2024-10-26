@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 ## Estimation of Policy Functions for Grant-in-Aid Transfers during the Great Recession
