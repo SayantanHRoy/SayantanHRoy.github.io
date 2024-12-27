@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-## Estimation of Policy Functions for Grant-in-Aid Transfers during the Great Recession
+## From Recession to Recovery: The Role of Fiscal Policy on Labor Market Recovery
 *Ongoing*
 
 In the wake of the 2008 Great Recession, the Obama administration passed the American Recovery and Reinvestment Act (ARRA) to assist those most affected by the economic downturn. It included measures such as increased general transfers (e.g., SNAP), unemployment insurance (UI) extensions, and grant-in-aid transfers to help patch budgetary shortfalls. Of the <span>$</span>&nbsp;800 billion allocated, <span>$</span>&nbsp;234 billion was spent on discretionary grant-in-aid transfers, which lacked a well-defined benefit formula compared to UI. Using complete market models as a benchmark, I evaluate whether this <span>$</span>&nbsp;234 billion expenditure was effective in stabilizing the economy and addressing disparities across impacted regions.
