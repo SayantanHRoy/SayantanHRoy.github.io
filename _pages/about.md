@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Economics PhD student at Purdue University, specializing in spending programs and their role in mitigating economic shocks. My research particularly explores how labor dynamics varies with market size.
+I am a fifth-year Economics PhD student at Purdue University, specializing in spending programs and their role in mitigating economic shocks. My research explores how labor dynamics varies with market size.
 
 ## Education
 - PhD in Economics, Purdue University (Expected 2026)
