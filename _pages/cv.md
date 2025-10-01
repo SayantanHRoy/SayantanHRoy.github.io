@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV [PDF]](https://github.com/SayantanHRoy/CV/blob/main/CV_updated_SayantanRoy.pdf){: .btn .btn--primary .btn--large}
+[Download CV [PDF]](https://github.com/SayantanHRoy/CV/blob/main/CV_SayantanRoy.pdf){: .btn .btn--primary .btn--large}
 
 ## Education
 
