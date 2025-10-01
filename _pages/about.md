@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Economics PhD student at Purdue University, specializing in social insurance programs and their role in mitigating economic shocks. My research particularly explores the intersection of labor dynamics and firm heterogeneity.
+I am a fifth-year Economics PhD student at Purdue University, specializing in spending programs and their role in mitigating economic shocks. My research particularly explores the intersection how labor dynamics varies with market size.
 
 ## Education
 - PhD in Economics, Purdue University (Current)

@@ -5,21 +5,12 @@ permalink: /research/
 author_profile: false
 ---
 
-## From Recession to Recovery: The Role of Fiscal Policy on Labor Market Recovery
-*Ongoing*
+## County Population Size and the Employment Effects of Fiscal Policy
+*JMP*
+Does <span>$</span>&nbsp; 1 per capita in stimulus create the same number of jobs everywhere? I document an inverted-U relationship between local employment responses and county population size. Using county-level variation in American Recovery and Reinvestment Act (2009-12) spending, I find that local employment responses are largest in mid-sized counties (approximately 100,000 residents) and substantially smaller in both small counties (approximately 10,000 residents) and large counties (approximately 1 million residents).
+To understand these patterns, I develop a multi-region new Keynesian model with representative agents, search-and-matching labor market frictions and endogenous labor force participation, calibrated to reflect conditions during the zero lower bound. The model rationalizes the empirical findings through distinct mechanisms operating at different county sizes: small counties experience significant demand leakages due to their economic openness, while large counties face constrained job creation despite stimulus spending, as high prevailing vacancy posting costs limit firms' incentives to post new vacancies.
+These results demonstrate that the aggregate effectiveness of fiscal stimulus depends critically on its geographic distribution. Targeting mid-sized labor markets during the Great Recession may have improved the employment impact of a finite stimulus. Reallocating 35\% of ARRA funds from large to mid-sized counties reduces the cost per job-year by about <span>$</span>&nbsp;1{,}050 (to <span>$</span>&nbsp;47{,}687) and adds roughly 103{,}000 job-years (+2.2\%). A full reallocation reduces the cost per job-year by about <span>$</span>&nbsp;2{,}900 (to \$45{,}851) and yields roughly 295{,}000 additional job-years (+6.3\%).
 
-In the wake of the 2008 Great Recession, the Obama administration passed the American Recovery 
-and Reinvestment Act (ARRA) to assist those most affected by the economic downturn. It 
-included measures such as increased general transfers (e.g., SNAP), unemployment insurance 
-(UI) extensions, and grant-in-aid transfers to help patch budgetary shortfalls. Of the 
-<span>$</span>&nbsp;234 billion was spent on discretionary grant-in-aid transfers, which 
-lacked a well-defined benefit formula compared to UI. 
-
-Using county-level variation in ARRA spending from 2009-2012, I find that a 1% increase in per
-capita government spending raised the cumulative employment-population ratio by 0.04 percentage 
-points over 2007-2015. Importantly, I uncover significant geographic heterogeneity: 
-medium-sized counties (population 100,000) showed strong responses, while both very large
-(1 million) and small counties (10,000) displayed minimal effects.
 
 ## Gender Gaps in Employment Seasonality: The Role of Unemployment Insurance
 *Ongoing*
