@@ -58,7 +58,7 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 $rd-page-bg                 : #faf8f6; // page background
 $rd-ink                     : #221f24; // body text
 $rd-muted                   : #56525c; // muted text
-$rd-faint                   : #8a8590; // faint text / meta
+$rd-faint                   : #6b6671; // faint text / meta (darkened from #8a8590 to pass WCAG AA — ~5.2:1 on the page bg)
 $rd-accent                  : #6b4e71; // plum — links, rules, eyebrows
 $rd-accent-fill             : #efe9f1; // pills, photo background
 $rd-featured-tint           : #f6f1f7; // job market paper block

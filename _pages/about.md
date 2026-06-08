@@ -17,7 +17,7 @@ redirect_from:
 <div class="rd-hero">
   <div class="rd-hero__photo rd-photo">
     <img src="{{ '/images/profile.jpg' | relative_url }}"
-         alt="Sayantan Roy." />
+         alt="Portrait photo of Sayantan Roy." />
   </div>
   <div class="rd-hero__text">
     <h1 class="rd-hero__name">Sayantan Roy</h1>

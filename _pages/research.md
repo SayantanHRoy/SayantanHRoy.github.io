@@ -27,7 +27,6 @@ author_profile: false
     <!-- TODO: add real links when the draft is public -->
     <li><span class="rd-reslinks__state">PDF — draft coming soon</span></li>
     <li><span class="rd-reslinks__state">Slides</span></li>
-    <li><span class="rd-reslinks__state">Code</span></li>
   </ul>
 
   <div class="rd-abs-body" id="abs-jmp" hidden>

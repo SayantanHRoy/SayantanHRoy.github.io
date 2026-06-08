@@ -105,6 +105,59 @@ $rd-content-max: 88rem;   /* ~1408px hard ceiling so prose never runs absurdly w
 }
 
 /* --------------------------------------------------------------------------
+   Minimal footer — flush-left, aligned to the content column, plum palette.
+   Overrides the stock theme footer (gray band, centered, RSS + attribution).
+   -------------------------------------------------------------------------- */
+.page__footer {
+  background-color: $rd-page-bg;   /* drop the theme's gray band */
+  border-top: 1px solid $rd-hairline;
+  color: $rd-faint;
+  margin-top: 4em;
+
+  footer {
+    max-width: $rd-content-max !important;   /* match #main, beat the theme's $x-large cap */
+    width: 92vw;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1.1rem 0 1.6rem;
+  }
+}
+
+.rd-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 1.25rem;        /* row-gap when wrapped, column-gap between items */
+  font-family: $sans-serif;
+  font-size: 0.8125rem;        /* 13px */
+  text-align: left;
+}
+.rd-footer__copy { color: $rd-faint; }
+.rd-footer__links {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.2rem 0.85rem;
+
+  a {
+    color: $rd-accent;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    &:hover { color: mix(#000, $rd-accent, 22%); }
+  }
+}
+
+/* Active-nav indicator — "you are here". The current page's menu item turns
+   plum with a short underline. Class added in masthead.html via aria-current. */
+.greedy-nav a.is-active {
+  color: $rd-accent;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 6px;
+
+  &:hover { color: mix(#000, $rd-accent, 22%); }
+}
+
+/* --------------------------------------------------------------------------
    Shared primitives
    -------------------------------------------------------------------------- */
 
@@ -374,7 +427,8 @@ $rd-content-max: 88rem;   /* ~1408px hard ceiling so prose never runs absurdly w
   color: $rd-ink;
   transition: border-color 0.15s ease, box-shadow 0.15s ease;
 
-  &:hover {
+  &:hover,
+  &:focus-within {   /* keyboard users get the same affordance as mouse hover */
     border-color: $rd-accent;
     box-shadow: 0 2px 10px rgba(107, 78, 113, 0.10);
   }
