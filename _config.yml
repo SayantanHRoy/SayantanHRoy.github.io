@@ -105,6 +105,9 @@ include:
   - _pages
   - files
 exclude:
+  - friend-starter            # hand-off package for a friend's site — not part of this build
+  - friend-starter.zip
+  - _pages/publications.md     # superseded by the redesigned research.md (kept in repo, not built)
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -230,6 +233,16 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  # Silence Dart Sass deprecation warnings from the base Minimal Mistakes / vendored
+  # code (we run modern Dart Sass locally; GitHub Pages uses old Ruby Sass and ignores
+  # these keys). Not errors — purely noise. quiet_deps hushes warnings bubbling up from
+  # imported partials; silence_deprecations kills the specific categories seen at build.
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - if-function
+    - color-functions
 
 # Outputting
 permalink: /:categories/:title/
