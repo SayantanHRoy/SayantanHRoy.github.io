@@ -1,57 +1,49 @@
 ---
 layout: archive
-title: "CV"
+title: "CV / résumé"
 permalink: /cv/
 author_profile: false
 redirect_from:
   - /resume
 ---
 
-[Download CV [PDF]](https://github.com/SayantanHRoy/CV/blob/main/CV_SayantanRoy.pdf){: .btn .btn--primary .btn--large}
+<!-- ================================================================
+     CV / RÉSUMÉ — two cards + highlights strip.
+     The full CV body no longer renders on the page; it lives in the PDF.
+     TODO (build spec §6): confirm PDF page counts + "updated" dates below,
+     and add the 1-page résumé PDF link (placeholder points at the CV for now).
+     ================================================================ -->
 
-## Education
+<p class="rd-finding" style="margin-top:-0.5rem;">Two documents for two audiences. The CV is the full academic record; the résumé is a one-page version for economist, applied-scientist, and consulting roles.</p>
 
-* Ph.D. in Economics, Purdue University (Expected 2026)
-* M.A. in Economics, Madras School of Economics (2019)
-* B.Sc. in Economics, Ramakrishna Mission Residential College, University of Calcutta (2017)
-  * Minors in Mathematics and Statistics
+<div class="rd-cards">
 
-## Professional Experience
+  <div class="rd-card">
+    <div class="rd-card__icon"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></div>
+    <p class="rd-card__title">Academic CV</p>
+    <p class="rd-card__who">For faculty, postdoc, and search-committee readers.</p>
+    <p class="rd-card__meta">PDF · updated 2026 <!-- TODO: confirm page count + date --></p>
+    <a class="rd-card__cta" href="https://github.com/SayantanHRoy/CV/blob/main/CV_updated_SayantanRoy.pdf">View ↗</a>
+    &nbsp;·&nbsp;
+    <a class="rd-card__cta" href="https://github.com/SayantanHRoy/CV/raw/main/CV_updated_SayantanRoy.pdf">Download</a>
+  </div>
 
-### Credit Risk Decision Scientist (July 2019 - June 2021)
-American Express, Gurugram
-* Developed and validated XGBoost models for credit risk assessment
-* Created arbitration logic for optimal SIC code assignment to commercial customers
-* Implemented point-in-time revenue prediction models using XGBoost
+  <div class="rd-card">
+    <div class="rd-card__icon"><i class="fas fa-fw fa-briefcase" aria-hidden="true"></i></div>
+    <p class="rd-card__title">Résumé</p>
+    <p class="rd-card__who">One page, for economist / applied-scientist / consulting roles.</p>
+    <p class="rd-card__meta">PDF, 1 page · updated 2026 <!-- TODO: add résumé PDF + confirm date --></p>
+    <!-- TODO: replace both links with the résumé PDF once it exists -->
+    <a class="rd-card__cta" href="https://github.com/SayantanHRoy/CV/blob/main/CV_updated_SayantanRoy.pdf">View ↗</a>
+    &nbsp;·&nbsp;
+    <a class="rd-card__cta" href="https://github.com/SayantanHRoy/CV/raw/main/CV_updated_SayantanRoy.pdf">Download</a>
+  </div>
 
-### Research Assistant (Summer 2018)
-Indian Institute of Technology
-* Assisted with research project under Professor Arun G.
-* Conducted literature review on disaster impact models
+</div>
 
-## Technical Skills
-
-### Econometric Methods
-* Time Series Analysis
-  * Structural Vector Autoregressive Analysis
-  * Bayesian Dynamic Factor Models
-* Causal Inference
-  * Synthetic Control Method
-  * Difference-in-Differences
-  * Regression Discontinuity
-  * Panel Data Analysis
-* Machine Learning
-  * XGBoost, Random Forests
-
-### Programming & Tools
-* Statistical Software
-  * Strong proficiency: Python, MATLAB, SQL, PySpark
-  * Working knowledge: Julia, Stata, SAS
-
-* Version Control: Git
-
-## Grants and Awards
-* Novshek-Watts Scholarship, Purdue University, 2021
-* Graduate Excellence Award, Madras School of Economics, 2019
-* Academic Fellowship, Madras School of Economics, 2017-19
-* Academic Excellence Award, R.K.M.R College Narendrapur, 2017
+<ul class="rd-highlights">
+  <li><span class="rd-highlights__label">Now</span> Fifth-year Economics PhD candidate at Purdue, on the 2026–27 job market.</li>
+  <li><span class="rd-highlights__label">Research</span> Fiscal policy, regional macroeconomics, and the geography of stimulus.</li>
+  <li><span class="rd-highlights__label">Before</span> Data scientist at American Express — commercial credit &amp; fraud risk.</li>
+  <li><span class="rd-highlights__label">Toolkit</span> Python, JAX, Julia, Stata, PySpark, SQL.</li>
+</ul>

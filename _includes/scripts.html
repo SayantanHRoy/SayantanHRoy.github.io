@@ -1,4 +1,24 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<!-- Redesign: expandable abstracts. Real <button aria-expanded> toggling a
+     hidden .rd-abs-body (referenced by aria-controls). Keyboard-operable. -->
+<script>
+  (function () {
+    document.addEventListener('click', function (e) {
+      var btn = e.target.closest('.rd-abs-toggle');
+      if (!btn) return;
+      var body = document.getElementById(btn.getAttribute('aria-controls'));
+      if (!body) return;
+      var open = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', String(!open));
+      body.hidden = open;
+      var label = btn.querySelector('.rd-abs-toggle__label');
+      if (label && btn.dataset.labelOpen && btn.dataset.labelClosed) {
+        label.textContent = open ? btn.dataset.labelClosed : btn.dataset.labelOpen;
+      }
+    });
+  })();
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
