@@ -113,6 +113,8 @@ exclude:
   - .sass-cache
   - CHANGELOG
   - Capfile
+  - EDITING.md
+  - 2026-06-07_website-redesign-build-spec.md
   - Gemfile
   - Gruntfile.js
   - LICENSE
