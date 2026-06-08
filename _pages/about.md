@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "Fifth-year Economics PhD candidate at Purdue — structural macro, causal inference, and a data-science background in large-scale ML."
+excerpt: "Economics PhD candidate at Purdue — structural macro, causal inference, and a data-science background in large-scale ML."
 author_profile: false
 redirect_from:
   - /about/
@@ -21,12 +21,12 @@ redirect_from:
   </div>
   <div class="rd-hero__text">
     <h1 class="rd-hero__name">Sayantan Roy</h1>
-    <p class="rd-hero__lede">Fifth-year Economics PhD candidate at Purdue, pairing structural macro and causal inference with a data-science background in large-scale ML.</p>
+    <p class="rd-hero__lede">Economics PhD candidate at Purdue, pairing structural macro and causal inference with a data-science background in large-scale ML.</p>
   </div>
 </div>
 
 <div class="rd-about" markdown="1">
-I'm a fifth-year Economics PhD candidate at Purdue, studying how government spending mitigates economic shocks and why its effects vary with the size of local labor markets. My job market paper estimates these effects across U.S. counties and explains them with a multi-region model. Before the PhD, I was a data scientist at American Express, building credit- and fraud-risk models on large transaction data. I work mostly in Python, JAX, Julia, and Stata.
+I am an Economics PhD candidate at Purdue working on spatial macroeconomics: how aggregate shocks, from fiscal stimulus to tariffs, play out unevenly across regions. My job market paper shows that the employment return to stimulus depends on where it is spent, not just how much; a related project builds a multi-region input-output model of how tariffs propagate across sectors and places. Both pair empirical evidence with structural models I solve computationally. Before the PhD, I built production credit-risk models at American Express. I work mostly in Python and JAX.
 </div>
 
 <ul class="rd-linkrow">
