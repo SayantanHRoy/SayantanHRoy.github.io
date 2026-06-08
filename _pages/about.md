@@ -14,9 +14,28 @@ redirect_from:
      if you have a higher-res source for the duotone treatment.
      ================================================================ -->
 
+<!-- Duotone filter: desaturate, then map shadows -> plum (#6b4e71),
+     highlights -> cream (#efe9f1). Referenced by .rd-photo img. -->
+<svg id="rd-duotone-defs" aria-hidden="true" focusable="false" width="0" height="0"
+     style="position:absolute;width:0;height:0;overflow:hidden">
+  <filter id="rd-duotone" color-interpolation-filters="sRGB">
+    <feColorMatrix type="matrix"
+      values="0.2126 0.7152 0.0722 0 0
+              0.2126 0.7152 0.0722 0 0
+              0.2126 0.7152 0.0722 0 0
+              0      0      0      1 0" />
+    <feComponentTransfer color-interpolation-filters="sRGB">
+      <feFuncR type="table" tableValues="0.420 0.937" />
+      <feFuncG type="table" tableValues="0.306 0.914" />
+      <feFuncB type="table" tableValues="0.443 0.945" />
+    </feComponentTransfer>
+  </filter>
+</svg>
+
 <div class="rd-hero">
   <div class="rd-hero__photo rd-photo">
     <img src="{{ '/images/profile.jpg' | relative_url }}"
+         style="filter:url(#rd-duotone)"
          alt="Sayantan Roy, portrait, rendered as a plum-toned duotone." />
   </div>
   <div class="rd-hero__text">
