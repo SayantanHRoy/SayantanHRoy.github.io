@@ -42,6 +42,6 @@ redirect_from:
 <ul class="rd-highlights">
   <li><span class="rd-highlights__label">Now</span> Economics PhD candidate at Purdue, on the 2026–27 job market.</li>
   <li><span class="rd-highlights__label">Research</span> Fiscal policy, Regional macroeconomics and International Trade.</li>
-  <li><span class="rd-highlights__label">Before</span> Data scientist at American Express — commercial credit risk.</li>
+  <li><span class="rd-highlights__label">Before</span> Data scientist at American Express, credit risk.</li>
   <li><span class="rd-highlights__label">Toolkit</span> Python, JAX, Julia, Stata, PySpark, SQL.</li>
 </ul>

@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "Economics PhD candidate at Purdue — structural macro, causal inference, and a data-science background in large-scale ML."
+excerpt: "Economics PhD candidate at Purdue: structural macro, causal inference, and a data-science background in large-scale ML."
 author_profile: false
 redirect_from:
   - /about/
@@ -57,7 +57,7 @@ I am an Economics PhD candidate at Purdue studying how aggregate shocks, from fi
     <h2 class="rd-subhead">Selected projects</h2>
 
     <p class="rd-project__title">DSGE perturbation solver (Python)</p>
-    <p class="rd-project__desc">perturbation with SymPy backends, validated on a two-country IRBC model.</p>
+    <p class="rd-project__desc">Built on a SymPy backend, validated on a two-country IRBC model.</p>
     <ul class="rd-tags">
       <li class="rd-pill">Python</li>
       <li class="rd-pill">SymPy</li>
