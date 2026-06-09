@@ -63,7 +63,7 @@ I am an Economics PhD candidate at Purdue studying how aggregate shocks, from fi
       <li class="rd-pill">SymPy</li>
     </ul>
 
-    <p class="rd-project__title" style="margin-top:1.25rem;">Regional dynamic IO tariff model</p>
+    <p class="rd-project__title" style="margin-top:1.25rem;">Regional dynamic input–output model</p>
     <p class="rd-project__desc">JAX solver. <span class="rd-reslinks__state">(in development)</span></p>
     <ul class="rd-tags">
       <li class="rd-pill">Python</li>
