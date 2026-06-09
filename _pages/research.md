@@ -31,8 +31,8 @@ author_profile: false
 
   <div class="rd-abs-body" id="abs-jmp" hidden>
     <p>The employment return to fiscal stimulus depends on where it is spent. Using county-level variation in American Recovery and Reinvestment Act (ARRA, 2009–2012) outlays, I document an inverted-U between local employment responses and county size — effects peak in mid-sized counties (~100,000 residents) and are far smaller in small (~10,000) and large (~1 million) ones.</p>
-    <p>A multi-region New Keynesian model with search-and-matching frictions, calibrated to the zero lower bound, rationalizes the pattern: small counties lose stimulus to demand leakage because they are highly open, while large counties hire weakly under high vacancy-posting costs.</p>
-    <p>The observed spatial allocation therefore leaves gains unrealized: reallocating 35% of ARRA funds from large to mid-sized counties adds roughly 103,000 job-years (+2.2%); a full reallocation adds roughly 295,000 (+6.3%) and cuts the cost per job-year by about <span>$</span>2,900. Targeting mid-sized labor markets would have raised employment at no added cost.</p>
+    <p>A multi-region New Keynesian model with search-and-matching frictions, calibrated to the zero lower bound, rationalizes the pattern: small counties lose stimulus to demand leakage because they are highly open, while large counties, despite retaining most spending locally, hire weakly under high vacancy-posting costs.</p>
+    <p>The observed spatial allocation therefore leaves gains unrealized: reallocating 35% of ARRA funds from large to mid-sized counties adds roughly 30,000 job-years; a full reallocation adds roughly 85,000 and cuts the cost per job-year by about <span>$</span>4,700. Targeting mid-sized labor markets would have raised employment at no added cost.</p>
   </div>
 </div>
 
@@ -58,7 +58,7 @@ author_profile: false
     <div class="rd-abs-body" id="abs-sectoral-exposure" hidden>
       <p>This paper studies how recessionary labor-income risk varies across workers, sectors, and places. Using county-sector wage data, I develop a Bayesian dynamic factor model that decomposes real wage income per resident into a county-sector trend, persistent local deviations, and latent aggregate and sectoral factors — letting counties and sectors differ in their exposure to common shocks.</p>
       <p>Motivating evidence from the Great Recession points to sharply uneven risk: goods-producing wages show far larger county-specific volatility than service or public-sector wages, and the goods-producing wage factor deteriorates after 2007 and recovers slowly while public-sector wages stay comparatively insulated. Downturns do not scale local wage income down uniformly; their incidence depends on the sectoral structure of local labor markets.</p>
-      <p>I use the model to build event-specific exposure measures for the Great Recession and COVID, aggregable to county, sector, and national levels via pre-recession wage-bill shares — testing whether different recessions hit different workers and places (goods-producing labor in 2008, contact-intensive services in COVID). The result is a unified method for measuring recession exposure, sectoral spillovers, and the geography of labor-income risk.</p>
+      <p>I use the model to build event-specific exposure measures for the Great Recession and COVID. The result is a unified method for measuring recession exposure and the geography of labor-income risk.</p>
     </div>
   </li>
 

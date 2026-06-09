@@ -26,7 +26,7 @@ redirect_from:
 </div>
 
 <div class="rd-about" markdown="1">
-I am an Economics PhD candidate at Purdue working on spatial macroeconomics: how aggregate shocks, from fiscal stimulus to tariffs, play out unevenly across regions. My job market paper shows that the employment return to stimulus depends on where it is spent, not just how much; a related project builds a multi-region input-output model of how tariffs propagate across sectors and places. Both pair empirical evidence with structural models I solve computationally. Before the PhD, I built production credit-risk models at American Express. I work mostly in Python and JAX.
+I am an Economics PhD candidate at Purdue studying how aggregate shocks, from fiscal stimulus to tariffs, play out unevenly across regions. My job market paper shows that the employment return to stimulus depends on where it is spent, not just how much; a related project builds a multi-region input-output model of how tariffs propagate across sectors and places. Both pair empirical evidence with structural models I solve computationally. Before the PhD, I built production credit-risk models at American Express. I work mostly in Python and JAX.
 </div>
 
 <ul class="rd-linkrow">
@@ -45,7 +45,7 @@ I am an Economics PhD candidate at Purdue working on spatial macroeconomics: how
   <section class="rd-col">
     <h2 class="rd-subhead">Selected research</h2>
     <span class="rd-eyebrow">Job market paper</span>
-    <p class="rd-paper-title">County Population Size and the Employment Effects of Fiscal Policy</p>
+    <p class="rd-paper-title">The Spatial Allocation of Fiscal Stimulus: County Size and the Gains from Reallocation</p>
     <p class="rd-finding">Stimulus creates the most jobs in mid-sized counties — local employment responses trace an inverted-U in county population size.</p>
     <ul class="rd-reslinks">
       <!-- TODO: add PDF · Slides · Code links once the draft is public -->
@@ -57,20 +57,18 @@ I am an Economics PhD candidate at Purdue working on spatial macroeconomics: how
   <section class="rd-col">
     <h2 class="rd-subhead">Selected projects</h2>
 
-    <p class="rd-project__title">DSGE perturbation solver (Julia → Python)</p>
-    <p class="rd-project__desc">SGU/Klein perturbation with SymPy + JAX backends, validated on a two-country IRBC model.</p>
+    <p class="rd-project__title">DSGE perturbation solver (Python)</p>
+    <p class="rd-project__desc">perturbation with SymPy backends, validated on a two-country IRBC model.</p>
     <ul class="rd-tags">
-      <li class="rd-pill">Julia</li>
       <li class="rd-pill">Python</li>
-      <li class="rd-pill">JAX</li>
       <li class="rd-pill">SymPy</li>
     </ul>
 
     <p class="rd-project__title" style="margin-top:1.25rem;">Regional dynamic IO tariff model</p>
-    <p class="rd-project__desc">JAX Newton–Krylov steady-state solver at 48×41 scale. <span class="rd-reslinks__state">(in development)</span></p>
+    <p class="rd-project__desc">JAX solver. <span class="rd-reslinks__state">(in development)</span></p>
     <ul class="rd-tags">
+      <li class="rd-pill">Python</li>
       <li class="rd-pill">JAX</li>
-      <li class="rd-pill">Newton–Krylov</li>
     </ul>
 
     <ul class="rd-reslinks" style="margin-top:1rem;">
