@@ -30,7 +30,6 @@ redirect_from:
   <div class="rd-card">
     <div class="rd-card__icon"><i class="fas fa-fw fa-briefcase" aria-hidden="true"></i></div>
     <p class="rd-card__title">Résumé</p>
-    <p class="rd-card__who">One page, for economist / applied-scientist / consulting roles.</p>
     <p class="rd-card__meta">PDF, 1 page · updated 2026 <!-- TODO: confirm page count + date --></p>
     <a class="rd-card__cta" href="/files/Sayantan-Roy-Resume.pdf" target="_blank" rel="noopener">View ↗</a>
     &nbsp;·&nbsp;
