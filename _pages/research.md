@@ -15,7 +15,7 @@ author_profile: false
 <div class="rd-featured">
   <span class="rd-eyebrow">Job market paper</span>
   <p class="rd-paper-title">The Spatial Allocation of Fiscal Stimulus: County Size and the Gains from Reallocation</p>
-  <p class="rd-finding">Does a dollar of stimulus create the same number of jobs everywhere? It does not — the employment return depends on where it is spent, tracing an inverted-U that peaks in mid-sized counties (~100,000 residents).</p>
+  <p class="rd-finding">Does a dollar of stimulus create the same number of jobs everywhere? It does not! The employment return depends on where it is spent, tracing an inverted-U that peaks in mid-sized counties (~100,000 residents).</p>
 
   <ul class="rd-reslinks">
     <li>
@@ -30,7 +30,7 @@ author_profile: false
   </ul>
 
   <div class="rd-abs-body" id="abs-jmp" hidden>
-    <p>The employment return to fiscal stimulus depends on where it is spent. Using county-level variation in American Recovery and Reinvestment Act (ARRA, 2009–2012) outlays, I document an inverted-U between local employment responses and county size — effects peak in mid-sized counties (~100,000 residents) and are far smaller in small (~10,000) and large (~1 million) ones.</p>
+    <p>The employment return to fiscal stimulus depends on where it is spent. Using county-level variation in American Recovery and Reinvestment Act (ARRA, 2009–2012) outlays, I document an inverted-U between local employment responses and county size. Effects peak in mid-sized counties (~100,000 residents) and are far smaller in small (~10,000) and large (~1 million) ones.</p>
     <p>A multi-region New Keynesian model with search-and-matching frictions, calibrated to the zero lower bound, rationalizes the pattern: small counties lose stimulus to demand leakage because they are highly open, while large counties, despite retaining most spending locally, hire weakly under high vacancy-posting costs.</p>
     <p>The observed spatial allocation therefore leaves gains unrealized: reallocating 35% of ARRA funds from large to mid-sized counties adds roughly 30,000 job-years; a full reallocation adds roughly 85,000 and cuts the cost per job-year by about <span>$</span>4,700. Targeting mid-sized labor markets would have raised employment at no added cost.</p>
   </div>

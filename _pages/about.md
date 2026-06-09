@@ -26,13 +26,12 @@ redirect_from:
 </div>
 
 <div class="rd-about" markdown="1">
-I am an Economics PhD candidate at Purdue studying how aggregate shocks, from fiscal stimulus to tariffs, play out unevenly across regions. My job market paper shows that the employment return to stimulus depends on where it is spent, not just how much; a related project builds a multi-region input-output model of how tariffs propagate across sectors and places. Both pair empirical evidence with structural models I solve computationally. Before the PhD, I built production credit-risk models at American Express. I work mostly in Python and JAX.
+I am an Economics PhD candidate at Purdue studying how aggregate shocks, from fiscal stimulus to tariffs, play out unevenly across regions. My job market paper shows that the employment return to stimulus depends on where it is spent, not just how much. A related project builds a multi-region input-output model of how tariffs propagate across sectors and places. Both pair empirical evidence with structural models I solve computationally. Before the PhD, I built production credit-risk models at American Express. I work mostly in Python and JAX.
 </div>
 
 <ul class="rd-linkrow">
-  <li><a href="https://github.com/SayantanHRoy/CV/blob/main/CV_updated_SayantanRoy.pdf">CV</a></li>
-  <!-- TODO: replace with the 1-page résumé PDF link when ready -->
-  <li><a href="{{ '/cv/' | relative_url }}">Résumé</a></li>
+  <li><a href="/files/Sayantan-Roy-CV.pdf" target="_blank" rel="noopener">CV</a></li>
+  <li><a href="/files/Sayantan-Roy-Resume.pdf" target="_blank" rel="noopener">Résumé</a></li>
   <li><a href="https://github.com/SayantanHRoy">GitHub</a></li>
   <li><a href="https://www.linkedin.com/in/sayantan-roy">LinkedIn</a></li>
   <li><a href="mailto:roy175@purdue.edu">Email</a></li>
@@ -46,7 +45,7 @@ I am an Economics PhD candidate at Purdue studying how aggregate shocks, from fi
     <h2 class="rd-subhead">Selected research</h2>
     <span class="rd-eyebrow">Job market paper</span>
     <p class="rd-paper-title">The Spatial Allocation of Fiscal Stimulus: County Size and the Gains from Reallocation</p>
-    <p class="rd-finding">Stimulus creates the most jobs in mid-sized counties — local employment responses trace an inverted-U in county population size.</p>
+    <p class="rd-finding">Stimulus creates the most jobs in mid-sized counties. Local employment responses trace an inverted-U in county population size.</p>
     <ul class="rd-reslinks">
       <!-- TODO: add PDF · Slides · Code links once the draft is public -->
       <li><span class="rd-reslinks__state">Draft coming soon</span></li>
