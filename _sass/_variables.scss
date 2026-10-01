@@ -54,21 +54,21 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-/* ---- Redesign palette (light theme, plum accent) ---- */
-$rd-page-bg                 : #faf8f6; // page background
+/* ---- Redesign palette (light theme, blue accent; previous plum values in comments) ---- */
+$rd-page-bg                 : #ffffff; // page background (was #faf8f6 off-white)
 $rd-ink                     : #221f24; // body text
 $rd-muted                   : #56525c; // muted text
 $rd-faint                   : #6b6671; // faint text / meta (darkened from #8a8590 to pass WCAG AA — ~5.2:1 on the page bg)
-$rd-accent                  : #6b4e71; // plum — links, rules, eyebrows
-$rd-accent-fill             : #efe9f1; // pills, photo background
-$rd-featured-tint           : #f6f1f7; // job market paper block
-$rd-pill-text               : #4a3550; // pill / accent-on-fill text
+$rd-accent                  : #2f5d8a; // blue — links, rules, eyebrows (was plum #6b4e71)
+$rd-accent-fill             : #e3edf8; // pills, photo background (was #efe9f1)
+$rd-featured-tint           : #eef4fb; // job market paper block (was #f6f1f7)
+$rd-pill-text               : #1f4268; // pill / accent-on-fill text (was #4a3550)
 $rd-hairline                : rgba(0, 0, 0, 0.12); // hairline border
 /* ----------------------------------------------------- */
 
 $body-color                 : $rd-page-bg;
 $background-color           : $rd-page-bg;
-$code-background-color      : #f3eef2;
+$code-background-color      : #eef3f8; // (was #f3eef2)
 $code-background-color-dark : $light-gray;
 $text-color                 : $rd-ink;
 $muted-text-color           : $rd-muted;
