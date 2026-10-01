@@ -21,12 +21,12 @@ redirect_from:
   </div>
   <div class="rd-hero__text">
     <h1 class="rd-hero__name">Sayantan Roy</h1>
-    <p class="rd-hero__lede">Economics PhD candidate at Purdue, pairing structural macro and causal inference with a data-science background in large-scale ML.</p>
+    <p class="rd-hero__lede">Economics PhD candidate at Purdue.</p>
   </div>
 </div>
 
 <div class="rd-about" markdown="1">
-I am an Economics PhD candidate at Purdue studying how aggregate shocks, from fiscal stimulus to tariffs, play out unevenly across regions. My job market paper shows that the employment return to stimulus depends on where it is spent, not just how much. A related project builds a multi-region input-output model of how tariffs propagate across sectors and places. Both pair empirical evidence with structural models I solve computationally. Before the PhD, I built production credit-risk models at American Express. I work mostly in Python and JAX.
+I study how aggregate economic shocks play out unevenly across regions. In my [job market paper]({{ '/research/' | relative_url }}#jmp), I examine how the employment effects of fiscal stimulus depend not only on the size of the program, but also on where it is spent. In related work, I study how tariffs propagate across sectors and places with the help of a multi-region input-output model. My research combines empirical evidence with structural models solved computationally. Before the PhD, I built production credit-risk models at American Express. I work mostly in Python and JAX.
 </div>
 
 <ul class="rd-linkrow">
@@ -44,8 +44,8 @@ I am an Economics PhD candidate at Purdue studying how aggregate shocks, from fi
   <section class="rd-col">
     <h2 class="rd-subhead">Selected research</h2>
     <span class="rd-eyebrow">Job market paper</span>
-    <p class="rd-paper-title">The Spatial Allocation of Fiscal Stimulus: County Size and the Gains from Reallocation</p>
-    <p class="rd-finding">Stimulus creates the most jobs in mid-sized counties. Local employment responses trace an inverted-U in county population size.</p>
+    <p class="rd-paper-title">Where Does Fiscal Stimulus Create Jobs? Evidence from U.S. Counties</p>
+    <p class="rd-finding">Where stimulus is spent matters for how many jobs it creates. Local employment responses to ARRA spending are largest in mid-sized counties and smaller in both small and large ones.</p>
     <ul class="rd-reslinks">
       <!-- TODO: add PDF · Slides · Code links once the draft is public -->
       <li><span class="rd-reslinks__state">Draft coming soon</span></li>

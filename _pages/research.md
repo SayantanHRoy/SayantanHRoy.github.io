@@ -12,10 +12,10 @@ author_profile: false
 
 <p class="rd-meta" style="margin-top:-0.5rem;">macroeconomics · spatial / regional economics · fiscal policy · international trade</p>
 
-<div class="rd-featured">
+<div class="rd-featured" id="jmp">
   <span class="rd-eyebrow">Job market paper</span>
-  <p class="rd-paper-title">The Spatial Allocation of Fiscal Stimulus: County Size and the Gains from Reallocation</p>
-  <p class="rd-finding">Does a dollar of stimulus create the same number of jobs everywhere? It does not. The employment return depends on where it is spent, tracing an inverted-U that peaks in mid-sized counties (~100,000 residents).</p>
+  <p class="rd-paper-title">Where Does Fiscal Stimulus Create Jobs? Evidence from U.S. Counties</p>
+  <p class="rd-finding">Where stimulus is spent matters for how many jobs it creates. Local employment responses to ARRA spending are largest in mid-sized counties (~100,000 residents) and smaller in both small and large counties.</p>
 
   <ul class="rd-reslinks">
     <li>
@@ -30,9 +30,9 @@ author_profile: false
   </ul>
 
   <div class="rd-abs-body" id="abs-jmp" hidden>
-    <p>The employment return to fiscal stimulus depends on where it is spent. Using county-level variation in American Recovery and Reinvestment Act (ARRA, 2009–2012) outlays, I document an inverted-U between local employment responses and county size. Effects peak in mid-sized counties (~100,000 residents) and are far smaller in small (~10,000) and large (~1 million) ones.</p>
-    <p>A multi-region New Keynesian model with search-and-matching frictions, calibrated to the zero lower bound, rationalizes the pattern: small counties lose stimulus to demand leakage because they are highly open, while large counties, despite retaining most spending locally, hire weakly under high vacancy-posting costs.</p>
-    <p>The observed spatial allocation therefore leaves gains unrealized: reallocating 35% of ARRA funds from large to mid-sized counties adds roughly 30,000 job-years; a full reallocation adds roughly 85,000 and cuts the cost per job-year by about <span>$</span>4,700. Targeting mid-sized labor markets would have raised employment at no added cost.</p>
+    <p>The size of funding and its allocation across states and counties are jointly determined in a national stimulus program. I study whether the second margin of choosing where to spend the money matters for the employment the program creates. Using county-level variation in American Recovery and Reinvestment Act (2009–12) outlays, I find that the local employment responses to government spending are largest in mid-sized counties (approximately 100,000 residents) and substantially smaller in both small counties (approximately 10,000 residents) and large counties (approximately 1 million residents).</p>
+    <p>Evidence on local production structure, commuting and purchasing patterns, and hiring points to two opposing forces. While small counties leak most of the demand they receive to other places, large counties turn the demand they retain into fewer jobs, consistent with greater worker bargaining power and higher recruiting costs. Mid-sized counties balance the two. I interpret and rationalize these patterns using a multi-region New Keynesian model in which locations are linked through trade and workers and firms interact in labor markets characterized by search and matching frictions. I use the model to recover the aggregate employment response (the ‘missing intercept’) that cross-sectional estimates alone cannot identify.</p>
+    <p>In counterfactual reallocations with the aggregate budget unchanged I find that moving 35 percent of large-county spending to mid-sized counties would have created about 145,800 additional job-years over 2009–12 (3.3 percent) and lowered the cost per job-year from <span>$</span>48,109 to <span>$</span>46,551. The spatial allocation of stimulus is thus an important dimension of stabilization policy distinct from the size of the program.</p>
   </div>
 </div>
 
@@ -40,47 +40,20 @@ author_profile: false
 
 <ul class="rd-paperlist">
   <li>
+    <p class="rd-paper-title">Tariffs Along the Supply Chain: Production Networks and Aggregate Adjustment in the Interwar United States</p>
+    <p class="rd-coauthors">with Mario J. Crucini · <span class="rd-reslinks__state">work in progress</span></p>
+    <p class="rd-finding">A multi-region, multi-sector input–output model to compare tariff incidence. Tariffs on intermediate goods generate larger declines in output and investment than tariffs on final-use goods.</p>
+  </li>
+
+  <li>
     <p class="rd-paper-title">Common Shocks, Local Exposure: Sectoral Wage Dynamics Across U.S. Counties</p>
     <p class="rd-coauthors"><span class="rd-reslinks__state">work in progress</span></p>
-    <p class="rd-finding">Recession risk is not evenly distributed across workers or places: goods-producing wage income appears especially exposed during the Great Recession, while service-producing and public-sector wages are comparatively insulated.</p>
-
-    <ul class="rd-reslinks">
-      <li>
-        <button class="rd-abs-toggle" type="button" aria-expanded="false" aria-controls="abs-sectoral-exposure"
-                data-label-open="Hide abstract" data-label-closed="Abstract">
-          <span class="rd-abs-toggle__label">Abstract</span>
-        </button>
-      </li>
-      <!-- TODO: add real links when the draft is public -->
-      <li><span class="rd-reslinks__state">PDF: draft coming soon</span></li>
-    </ul>
-
-    <div class="rd-abs-body" id="abs-sectoral-exposure" hidden>
-      <p>This paper studies how recessionary labor-income risk varies across workers, sectors, and places. Using county-sector wage data, I develop a Bayesian dynamic factor model that decomposes real wage income per resident into a county-sector trend, persistent local deviations, and latent aggregate and sectoral factors, letting counties and sectors differ in their exposure to common shocks.</p>
-      <p>Motivating evidence from the Great Recession points to sharply uneven risk: goods-producing wages show far larger county-specific volatility than service or public-sector wages, and the goods-producing wage factor deteriorates after 2007 and recovers slowly while public-sector wages stay comparatively insulated. Downturns do not scale local wage income down uniformly; their incidence depends on the sectoral structure of local labor markets.</p>
-      <p>I use the model to build event-specific exposure measures for the Great Recession and COVID. The result is a unified method for measuring recession exposure and the geography of labor-income risk.</p>
-    </div>
+    <p class="rd-finding">A Bayesian dynamic factor model of county-sector wage income to measure exposure to recessions. Goods-producing sectors show greater Great Recession exposure than the public sector.</p>
   </li>
 
   <li>
     <p class="rd-paper-title">Gender Gaps in Employment Seasonality: The Role of Unemployment Insurance</p>
     <p class="rd-coauthors"><span class="rd-reslinks__state">work in progress</span></p>
-    <p class="rd-finding">Insured unemployment is seasonal, and that seasonality differs by gender, shaped by the imperfect experience-rating of U.I. and gendered patterns in work and caregiving.</p>
-
-    <ul class="rd-reslinks">
-      <li>
-        <button class="rd-abs-toggle" type="button" aria-expanded="false" aria-controls="abs-seasonality"
-                data-label-open="Hide abstract" data-label-closed="Abstract">
-          <span class="rd-abs-toggle__label">Abstract</span>
-        </button>
-      </li>
-      <!-- TODO: add real links when the draft is public -->
-      <li><span class="rd-reslinks__state">PDF: draft coming soon</span></li>
-    </ul>
-
-    <div class="rd-abs-body" id="abs-seasonality" hidden>
-      <p>Labor market risk naturally arises due to seasonal shocks. For example, construction employment peaks in summer and slows in December, while retail surges in December and dips in January. A key question is whether this seasonality also appears in the number of workers receiving Unemployment Insurance (U.I.) benefits each month.</p>
-      <p>While U.I. is designed to protect against unexpected shocks, seasonal fluctuations in insured unemployment may still occur as firms lay off excess workers during off-peak periods. The imperfect experience-rated tax structure of U.I. incentivizes firms to retain surplus workers, with layoffs following these seasonal cycles. I document significant seasonal differences in insured unemployment between men and women. Gendered patterns in employment and caregiving responsibilities likely contribute to the distinct seasonality observed for women.</p>
-    </div>
+    <p class="rd-finding">Documents gender differences in the seasonality of insured unemployment and examines the roles of unemployment insurance, employment patterns, and caregiving responsibilities in explaining gaps in labor-market risk.</p>
   </li>
 </ul>

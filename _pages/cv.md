@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV / résumé"
+title: "CV / Résumé"
 permalink: /cv/
 author_profile: false
 redirect_from:
@@ -14,7 +14,11 @@ redirect_from:
      and add the 1-page résumé PDF link (placeholder points at the CV for now).
      ================================================================ -->
 
-<p class="rd-finding" style="margin-top:-0.5rem;"> The CV is the full record; the résumé is a one-page version.</p>
+<!--
+<p class="rd-finding" style="margin-top:-0.5rem;">
+  The CV is the full record; the résumé is a one-page version.
+</p>
+-->
 
 <div class="rd-cards">
 
