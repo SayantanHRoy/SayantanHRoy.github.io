@@ -47,8 +47,8 @@ I study how aggregate economic shocks play out unevenly across regions. In my [j
     <p class="rd-paper-title">Where Does Fiscal Stimulus Create Jobs? Evidence from U.S. Counties</p>
     <p class="rd-finding">Where stimulus is spent matters for how many jobs it creates. Local employment responses to ARRA spending are largest in mid-sized counties and smaller in both small and large ones.</p>
     <ul class="rd-reslinks">
-      <!-- TODO: add PDF · Slides · Code links once the draft is public -->
-      <li><span class="rd-reslinks__state">Draft coming soon</span></li>
+      <!-- JMP PDF: update the draft date when replacing the file (keep the same filename) -->
+      <li><a href="{{ '/files/JMP_Where_Does_Fiscal_Stimulus_Create_Jobs.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a> <span class="rd-reslinks__state">(October 2026 draft · updated regularly)</span></li>
       <li><a href="{{ '/research/' | relative_url }}">More research →</a></li>
     </ul>
   </section>

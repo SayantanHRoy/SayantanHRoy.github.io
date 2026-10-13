@@ -7,7 +7,8 @@ author_profile: false
 
 <!-- ================================================================
      RESEARCH
-     Abstracts below are current drafts. Add PDF/Slides/Code links once public.
+     Abstracts below are current drafts. JMP PDF is live: when replacing it, keep the
+     same filename so the link stays stable, and update the draft date next to the link.
      ================================================================ -->
 
 <p class="rd-meta" style="margin-top:-0.5rem;">macroeconomics · spatial / regional economics · fiscal policy · international trade</p>
@@ -24,15 +25,14 @@ author_profile: false
         <span class="rd-abs-toggle__label">Abstract</span>
       </button>
     </li>
-    <!-- TODO: add real links when the draft is public -->
-    <li><span class="rd-reslinks__state">PDF: draft coming soon</span></li>
+    <li><a href="{{ '/files/JMP_Where_Does_Fiscal_Stimulus_Create_Jobs.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a> <span class="rd-reslinks__state">(October 2026 draft · updated regularly)</span></li>
     <li><span class="rd-reslinks__state">Slides</span></li>
   </ul>
 
   <div class="rd-abs-body" id="abs-jmp" hidden>
-    <p>A national stimulus program jointly sets the size of total funding and its allocation across states and counties. I study whether the latter matters for the employment the program creates. Using county-level variation in American Recovery and Reinvestment Act (2009–12) outlays, I find that the local employment responses to government spending are largest in mid-sized counties (about 100,000 residents) and substantially smaller in both small and large counties (about 10,000 and 1 million residents).</p>
-    <p>Evidence on local production structure, commuting and purchasing patterns, and hiring points to two opposing forces. While small counties leak most of the demand they receive to other places, large counties turn the demand they retain into fewer jobs, consistent with greater worker bargaining power and higher recruiting costs. Mid-sized counties balance the two. I interpret and rationalize these patterns using a multi-region New Keynesian model in which locations are linked through trade, and labor markets feature search and matching frictions.</p>
-    <p>In counterfactual reallocations with the aggregate budget unchanged, I find that moving 35 percent of large-county spending to mid-sized counties would have created about 145,800 additional job-years over 2009–12 (3.3 percent) and lowered the cost per job-year from <span>$</span>48,109 to <span>$</span>46,551. The spatial allocation of stimulus is thus an important dimension of stabilization policy distinct from the size of the program.</p>
+    <p>I study how the allocation of national stimulus across US counties affects aggregate job creation. Using county-level variation in American Recovery and Reinvestment Act (2009–2012) outlays, I find that local employment responses to government spending are largest in mid-sized counties (about 100,000 residents) and substantially smaller in both small and large counties (about 10,000 and 1 million residents).</p>
+    <p>Evidence on local production structure, purchasing patterns, and hiring points to two opposing forces. While small counties leak most of the demand they receive to other places, large counties turn the demand they retain into fewer jobs, consistent with greater worker bargaining power and higher recruiting costs. Mid-sized counties balance the two. I interpret and rationalize these patterns using a multi-region New Keynesian model in which locations are linked through trade, and labor markets feature search and matching frictions.</p>
+    <p>I reallocate funds from large to mid-sized counties until large counties receive the same funding per adult as small counties. This reallocation would have created about 91,400 additional job-years without increasing total spending. At the baseline cost per job-year, this gain is equivalent to about <span>$</span>4.4 billion in additional stimulus spending. The spatial allocation of stimulus is thus an important dimension of stabilization policy distinct from the size of the program.</p>
   </div>
 </div>
 
