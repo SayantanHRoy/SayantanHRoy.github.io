@@ -26,7 +26,7 @@ redirect_from:
 </div>
 
 <div class="rd-about" markdown="1">
-I study how aggregate economic shocks play out unevenly across regions. In my [job market paper]({{ '/research/' | relative_url }}#jmp), I examine how the employment effects of fiscal stimulus depend not only on the size of the program, but also on where it is spent. In related work, I study how tariffs propagate across sectors and places with the help of a multi-region input-output model. My research combines empirical evidence with structural models solved computationally. Before the PhD, I built production credit-risk models at American Express. I work mostly in Python and JAX.
+I study how aggregate economic shocks play out unevenly across regions. In my [job market paper]({{ '/research/' | relative_url }}#jmp), I examine how the employment effects of fiscal stimulus depend not only on the size of the program, but also on where it is spent. In related work, I study how tariffs propagate across sectors and places with the help of a multi-region input-output model. My research combines empirical evidence with structural models solved computationally. Before my PhD, I built production credit-risk models at American Express. I work mostly in Python and JAX.
 </div>
 
 <ul class="rd-linkrow">
